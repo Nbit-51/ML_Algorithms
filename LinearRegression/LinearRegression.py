@@ -1,4 +1,5 @@
-#Linear Regression Algorithm is used to draw different conclusions form the data
+#Linear Regression Algorithm is used to draw different conclusions form the data, for example here we get to know difference between the cylinder stocks of each district.
+#The equation of linear regression is, y=mx+c where m=slope of the relational graph plotted and c is y intercept which gives us the base value of starting point of the graph.
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
